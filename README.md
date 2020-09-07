@@ -9,4 +9,4 @@
 * [Spooky Reviews identifier](https://github.com/manuperera81/Data-analytics/blob/master/Spooky%20Review%20Identifier%20.ipynb):  Classifying the reviews based on the words used in each review.(kaggle dataset)
 
 ### Data Visualization  ### 
-* [Tableau](https://public.tableau.com/profile/manujaya7277#!/): Please check the data visualization dashboard i created using Tableau software.
+* [Tableau](https://public.tableau.com/profile/manujaya7277#!/): Please check the data visualization dashboard I created using Tableau software.
